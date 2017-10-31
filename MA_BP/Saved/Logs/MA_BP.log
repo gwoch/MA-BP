@@ -652,3 +652,336 @@ LogInit: Object subsystem initialized
 [2017.10.31-01.01.18:403][ 71]LogSavePackage: Save=214.54ms
 [2017.10.31-01.01.18:403][ 71]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_BuiltData8E1857BE459A0118744ADE9205427371.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
 [2017.10.31-01.01.18:406][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2017.10.31-01.21.45:656][868]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c2477a82-8792-4e56-8742-002b22f92a69} was removed. Shutting down audio device.
+[2017.10.31-01.34.44:018][851]LogEditorViewport: Clicking on Actor (LMB): Actor_Blueprint_C (Actor_Blueprint)
+[2017.10.31-01.35.44:338][439]Cmd: TRANSACTION UNDO
+[2017.10.31-01.35.44:338][439]LogEditorTransaction: Undo Move Components
+[2017.10.31-01.35.44:776][464]Cmd: TRANSACTION UNDO
+[2017.10.31-01.35.44:776][464]LogEditorTransaction: Undo Move Components
+[2017.10.31-01.35.46:233][550]Cmd: TRANSACTION UNDO
+[2017.10.31-01.35.46:233][550]LogEditorTransaction: Undo Make New Scene Root
+[2017.10.31-01.35.49:680][755]Cmd: TRANSACTION UNDO
+[2017.10.31-01.35.49:680][755]LogEditorTransaction: Undo Move Components
+[2017.10.31-01.36.36:458][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-01.36.37:122][574]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.37.01:505][ 26]LogInit: Transaction tracking system initialized
+[2017.10.31-01.37.01:505][ 26]EditorErrors: New page: Matinee Initialization
+[2017.10.31-01.37.20:805][171]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.37.28:893][637]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.38.05:724][735]Cmd: TRANSACTION UNDO
+[2017.10.31-01.38.05:724][735]LogEditorTransaction: Undo NewTrack
+[2017.10.31-01.38.07:595][840]Cmd: TRANSACTION UNDO
+[2017.10.31-01.38.07:595][840]LogEditorTransaction: Undo New Group
+[2017.10.31-01.38.08:412][889]Cmd: TRANSACTION UNDO
+[2017.10.31-01.38.08:412][889]LogEditorTransaction: Undo Group Delete
+[2017.10.31-01.38.11:300][ 61]Cmd: TRANSACTION UNDO
+[2017.10.31-01.38.11:300][ 61]LogEditorTransaction: Undo New Group
+[2017.10.31-01.38.21:257][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-01.38.23:253][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-01.38.27:498][915]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.38.36:837][448]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.38.39:073][581]LogEditorViewport: Clicking on Actor (context menu): Actor (Actor2)
+[2017.10.31-01.39.25:582][331]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.42.29:295][908]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.10.31-01.42.32:357][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-01.42.35:044][224]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.42.45:963][870]Cmd: SELECT NONE
+[2017.10.31-01.44.40:030][855]LogEditorViewport: Clicking on Actor (context menu): Actor (Actor2)
+[2017.10.31-01.44.56:395][818]Cmd: ACTOR BAKEPREPIVOT
+[2017.10.31-01.45.05:213][340]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.45.13:728][847]Cmd: TRANSACTION UNDO
+[2017.10.31-01.45.13:728][847]LogEditorTransaction: Undo Update Key Frame
+[2017.10.31-01.45.29:055][682]Cmd: TRANSACTION UNDO
+[2017.10.31-01.45.29:055][682]LogEditorTransaction: Undo Update Key Frame
+[2017.10.31-01.45.31:152][806]Cmd: TRANSACTION UNDO
+[2017.10.31-01.45.31:152][806]LogEditorTransaction: Undo Update Key Frame
+[2017.10.31-01.45.32:803][905]Cmd: TRANSACTION UNDO
+[2017.10.31-01.45.32:803][905]LogEditorTransaction: Undo Update Key Frame
+[2017.10.31-01.45.33:136][925]Cmd: TRANSACTION UNDO
+[2017.10.31-01.45.33:136][925]LogEditorTransaction: Undo Update Key Frame
+[2017.10.31-01.47.27:519][842]LogSavePackage: Save=141.30ms
+[2017.10.31-01.47.27:519][842]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap69D074174BB8246AD2DA29969254ADB7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-01.47.27:527][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-01.47.27:560][842]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.503
+[2017.10.31-01.47.47:611][794]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.47.47:940][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-01.47.48:571][848]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.48.26:553][284]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MABP
+[2017.10.31-01.48.26:553][284]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.31-01.48.26:553][284]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.10.31-01.48.26:553][284]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.31-01.48.26:553][284]LogTemp: BranchPath = DESKTOP-UTLPHC3/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-UTLPHC3/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.10.31-01.48.26:577][285]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Leszek\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.31-01.51.55:986][431]Cmd: DELETE
+[2017.10.31-01.51.55:986][431]Cmd: ACTOR DELETE
+[2017.10.31-01.51.55:987][431]LogEditorActor: Deleted Actor: TriggerBox
+[2017.10.31-01.51.56:008][431]LogExit: Transaction tracking system shut down
+[2017.10.31-01.51.56:009][431]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.10.31-01.52.15:083][564]Cmd: DELETE
+[2017.10.31-01.52.15:084][564]Cmd: ACTOR DELETE
+[2017.10.31-01.52.15:084][564]LogEditorActor: Deleted Actor: TriggerBox
+[2017.10.31-01.52.15:106][564]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.10.31-01.52.37:482][469]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.53.14:088][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-01.53.15:825][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-01.53.16:516][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-01.53.16:896][803]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.53.47:464][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-01.53.48:191][661]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.53.48:969][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-01.53.50:260][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-01.53.50:655][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-01.53.51:263][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-01.53.57:845][227]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.53.58:645][272]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.54.12:741][109]Cmd: TRANSACTION UNDO
+[2017.10.31-01.54.12:741][109]LogEditorTransaction: Undo Create Actors
+[2017.10.31-01.54.33:850][756]Cmd: TRANSACTION UNDO
+[2017.10.31-01.54.33:850][756]LogEditorTransaction: Undo Move Components
+[2017.10.31-01.54.34:321][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-01.54.34:621][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-01.54.35:116][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-01.54.36:352][898]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.55.23:793][549]LogSavePackage: Save=117.28ms
+[2017.10.31-01.55.23:793][549]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap73160A1747FD9A2A278EFD936EDDBDD8.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-01.55.23:799][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-01.55.24:072][549]LogSavePackage: Save=228.71ms
+[2017.10.31-01.55.24:072][549]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_BuiltDataB372A9C34AFF77E411431BB921B05C76.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2017.10.31-01.55.24:075][549]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2017.10.31-01.55.35:826][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-01.55.36:480][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-01.55.36:786][291]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-01.55.37:217][316]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2017.10.31-01.55.38:749][404]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-01.56.25:203][943]LogSavePackage: Save=115.15ms
+[2017.10.31-01.56.25:203][943]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap740822814492FDDE88B0B784DE2F4F9F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-01.56.25:209][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-01.56.25:444][943]LogSavePackage: Save=209.54ms
+[2017.10.31-01.56.25:444][943]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_BuiltData16724BF046BF84011381F0B8D8A47DE4.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2017.10.31-01.56.25:448][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2017.10.31-01.56.29:898][ 30]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c2477a82-8792-4e56-8742-002b22f92a69} was removed. Shutting down audio device.
+[2017.10.31-01.56.29:898][ 30]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{c2477a82-8792-4e56-8742-002b22f92a69} was removed. Shutting down audio device.
+[2017.10.31-04.56.35:393][ 36]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.10.31-04.56.35:753][ 38]LogHttp: Warning: 00000227D5521780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.31-04.56.35:753][ 38]LogHttp: Warning: 00000227D5521780: libcurl info message cache 0 (Connection 105 seems to be dead!)
+[2017.10.31-04.56.35:753][ 38]LogHttp: Warning: 00000227D5521780: libcurl info message cache 1 (Closing connection 105)
+[2017.10.31-04.56.35:753][ 38]LogHttp: Warning: 00000227D5521780: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.31-04.56.35:753][ 38]LogHttp: Warning: 00000227D5521780: libcurl info message cache 3 (Closing connection 106)
+[2017.10.31-09.02.17:057][ 48]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.10.31-09.02.17:158][ 49]LogHttp: Warning: 000002273EA29480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.31-09.02.17:158][ 49]LogHttp: Warning: 000002273EA29480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.31-09.02.17:158][ 49]LogHttp: Warning: 000002273EA29480: libcurl info message cache 1 (Closing connection 107)
+[2017.10.31-09.31.57:540][601]Cmd: DELETE
+[2017.10.31-09.31.57:540][601]Cmd: ACTOR DELETE
+[2017.10.31-09.31.57:541][601]LogEditorActor: Deleted Actor: TriggerBox
+[2017.10.31-09.31.57:565][601]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2017.10.31-09.32.01:069][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-09.32.01:257][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-09.32.01:424][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-09.32.02:147][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-09.32.02:438][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.32.02:670][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.32.02:936][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.32.03:422][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-09.32.05:330][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-09.32.05:967][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-09.32.07:056][151]Cmd: DELETE
+[2017.10.31-09.32.07:056][151]Cmd: ACTOR DELETE
+[2017.10.31-09.32.07:057][151]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.31-09.32.07:080][151]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.10.31-09.32.08:056][210]Cmd: TRANSACTION UNDO
+[2017.10.31-09.32.08:056][210]LogEditorTransaction: Undo Delete Actors
+[2017.10.31-09.32.08:912][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.32.15:258][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.32.15:621][652]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-09.32.16:510][689]LogSavePackage: Save=124.79ms
+[2017.10.31-09.32.16:510][689]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_Auto6450259CF4B1B10DCD8CD319DD1D067D1.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto6.umap'
+[2017.10.31-09.32.16:513][689]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto6.umap
+[2017.10.31-09.32.16:517][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.188
+[2017.10.31-09.32.16:517][689]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.188
+[2017.10.31-09.34.03:908][636]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.31-09.34.03:924][636]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.34.03:924][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.31-09.34.03:925][636]PIE: New page: PIE session: SideScrollerExampleMap (31 Oct 2017 09:34:03)
+[2017.10.31-09.34.03:925][636]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.10.31-09.34.03:956][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030805s)
+[2017.10.31-09.34.03:959][636]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.10.31-09.34.03:960][636]LogPlayLevel: PIE: World Init took: (0.004074s)
+[2017.10.31-09.34.03:960][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.035546s)
+[2017.10.31-09.34.03:984][636]LogInit: XAudio2 using 'MON-SIS289 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.31-09.34.03:991][636]LogInit: FAudioDevice initialized.
+[2017.10.31-09.34.04:027][636]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.10.31-09.34.04:035][636]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2017.10.31-09.34.04
+[2017.10.31-09.34.04:036][636]LogWorld: Bringing up level for play took: 0.004373
+[2017.10.31-09.34.04:038][636]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.35
+[2017.10.31-09.34.04:038][636]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.34.29:874][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.34.29:930][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.35.23:247][344]LogEditorViewport: Clicking on Component (SHIFT LMB): StaticMeshComponent (Door with Input)
+[2017.10.31-09.35.27:092][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-09.35.27:822][610]Cmd: TRANSACTION UNDO
+[2017.10.31-09.35.27:822][610]LogEditorTransaction: Undo Clicking on Actors
+[2017.10.31-09.35.32:734][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-09.35.33:978][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2017.10.31-09.35.34:804][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.35:561][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-09.35.36:288][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.36:879][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.37:273][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.37:753][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.38:733][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.39:162][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.41:247][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.41:564][411]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.10.31-09.35.42:088][441]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.10.31-09.35.42:499][465]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-09.35.42:880][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.44:001][550]Cmd: TRANSACTION UNDO
+[2017.10.31-09.35.44:001][550]LogEditorTransaction: Undo Clicking on Actors
+[2017.10.31-09.35.47:384][749]Cmd: TRANSACTION UNDO
+[2017.10.31-09.35.47:384][749]LogEditorTransaction: Undo Scale Actors
+[2017.10.31-09.35.47:995][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.48:346][801]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2017.10.31-09.35.48:867][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-09.35.49:578][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-09.35.51:048][951]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-09.36.01:625][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2017.10.31-09.36.02:375][617]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-09.42.43:149][922]LogSavePackage: Save=135.16ms
+[2017.10.31-09.42.43:149][922]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_Auto7797DF3314432F5A8AECAC2B5744356F9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto7.umap'
+[2017.10.31-09.42.43:153][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto7.umap
+[2017.10.31-09.42.43:155][922]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.184
+[2017.10.31-09.42.43:155][922]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.184
+[2017.10.31-09.52.36:457][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2017.10.31-09.52.37:142][618]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-09.53.19:479][125]Cmd: TRANSACTION UNDO
+[2017.10.31-09.53.19:479][125]LogEditorTransaction: Undo Move Actors
+[2017.10.31-09.53.20:054][158]Cmd: TRANSACTION UNDO
+[2017.10.31-09.53.20:054][158]LogEditorTransaction: Undo Move Actors
+[2017.10.31-09.55.14:515][432]LogEditorTransaction: Undo Create Pin Link
+[2017.10.31-09.55.15:560][493]LogEditorTransaction: Undo Move Nodes
+[2017.10.31-09.55.50:108][303]LogSavePackage: Save=147.06ms
+[2017.10.31-09.55.50:108][303]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_Auto8BCBE4CC9488A3A6648DE89942F8D1B44.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto8.umap'
+[2017.10.31-09.55.50:111][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto8.umap
+[2017.10.31-09.55.50:114][303]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.200
+[2017.10.31-09.55.50:114][303]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.200
+[2017.10.31-09.55.50:118][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorBlueprintResources/StandardMacros] ([1] browsable assets)...
+[2017.10.31-09.55.50:118][303]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorBlueprintResources/StandardMacros]
+[2017.10.31-09.55.50:320][303]LogSavePackage: Save=194.29ms
+[2017.10.31-09.55.50:320][303]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/StandardMacros_Auto87920EE964827B54961B244B86E0A5CDB.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Engine/EditorBlueprintResources/StandardMacros_Auto8.uasset'
+[2017.10.31-09.55.50:322][303]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Engine/EditorBlueprintResources/StandardMacros_Auto8.uasset
+[2017.10.31-09.55.50:322][303]LogFileHelpers: Auto-saving content packages took 0.207
+[2017.10.31-09.57.47:827][277]BlueprintLog: New page: Compile SideScrollerExampleMap
+[2017.10.31-09.58.06:834][394]LogSavePackage: Save=148.38ms
+[2017.10.31-09.58.06:834][394]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap56D3645A47B9E4284CDEE3B7CC987485.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-09.58.06:840][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-09.58.06:861][394]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.304
+[2017.10.31-09.58.40:133][557]LogSavePackage: Save=143.53ms
+[2017.10.31-09.58.40:133][557]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap3CE2EEDC482E735D62F4D892B6CA514D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-09.58.40:136][557]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-09.58.40:394][557]LogSavePackage: Save=209.01ms
+[2017.10.31-09.58.40:394][557]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_BuiltData941BE3764031B5705ACBBD804595B376.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2017.10.31-09.58.40:397][557]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2017.10.31-09.58.42:281][667]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.31-09.58.42:295][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.58.42:295][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.31-09.58.42:296][667]PIE: New page: PIE session: SideScrollerExampleMap (31 Oct 2017 09:58:42)
+[2017.10.31-09.58.42:296][667]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.10.31-09.58.42:321][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025436s)
+[2017.10.31-09.58.42:322][667]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.10.31-09.58.42:322][667]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2017.10.31-09.58.42:323][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.027132s)
+[2017.10.31-09.58.42:349][667]LogInit: XAudio2 using 'MON-SIS289 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.31-09.58.42:355][667]LogInit: FAudioDevice initialized.
+[2017.10.31-09.58.42:392][667]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.10.31-09.58.42:396][667]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2017.10.31-09.58.42
+[2017.10.31-09.58.42:396][667]LogWorld: Bringing up level for play took: 0.003340
+[2017.10.31-09.58.42:398][667]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.01
+[2017.10.31-09.58.42:398][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.59.17:357][762]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.59.17:403][762]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.59.22:153][ 37]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-09.59.28:159][393]Cmd: TRANSACTION UNDO
+[2017.10.31-09.59.28:159][393]LogEditorTransaction: Undo Move Actors
+[2017.10.31-09.59.35:679][839]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.31-09.59.35:691][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.59.35:691][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.31-09.59.35:691][839]PIE: New page: PIE session: SideScrollerExampleMap (31 Oct 2017 09:59:35)
+[2017.10.31-09.59.35:691][839]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.10.31-09.59.35:713][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022056s)
+[2017.10.31-09.59.35:714][839]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.10.31-09.59.35:714][839]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2017.10.31-09.59.35:715][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023378s)
+[2017.10.31-09.59.35:738][839]LogInit: XAudio2 using 'MON-SIS289 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.31-09.59.35:752][839]LogInit: FAudioDevice initialized.
+[2017.10.31-09.59.35:787][839]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.10.31-09.59.35:791][839]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2017.10.31-09.59.35
+[2017.10.31-09.59.35:792][839]LogWorld: Bringing up level for play took: 0.003151
+[2017.10.31-09.59.35:793][839]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.595
+[2017.10.31-09.59.35:793][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.59.55:257][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.59.55:301][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-09.59.57:033][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2017.10.31-09.59.57:865][145]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-10.00.02:544][420]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.02:544][420]LogEditorTransaction: Undo Scale Components
+[2017.10.31-10.00.04:398][529]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.04:398][529]LogEditorTransaction: Undo Scale Components
+[2017.10.31-10.00.06:836][673]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.06:836][673]LogEditorTransaction: Undo Scale Components
+[2017.10.31-10.00.07:079][687]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.07:079][687]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2017.10.31-10.00.07:483][710]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.07:483][710]LogEditorTransaction: Undo Clicking on Actors
+[2017.10.31-10.00.08:038][741]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.08:038][741]LogEditorTransaction: Undo Clicking on Actors
+[2017.10.31-10.00.08:452][765]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.08:452][765]LogEditorTransaction: Undo Scale Actors
+[2017.10.31-10.00.10:163][867]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-10.00.16:375][235]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.16:375][235]LogEditorTransaction: Undo Scale Components
+[2017.10.31-10.00.22:274][582]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door with Input)
+[2017.10.31-10.00.22:553][598]LogEditorViewport: Clicking on Actor (double click): Actor (Actor2)
+[2017.10.31-10.00.22:833][614]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor2)
+[2017.10.31-10.00.27:883][912]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door with Input)
+[2017.10.31-10.00.37:590][484]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.37:590][484]LogEditorTransaction: Undo Scale Components
+[2017.10.31-10.00.37:981][506]Cmd: TRANSACTION UNDO
+[2017.10.31-10.00.37:981][506]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2017.10.31-10.00.39:377][587]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door with Input)
+[2017.10.31-10.00.56:080][566]LogSavePackage: Save=144.71ms
+[2017.10.31-10.00.56:080][566]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap73869B47451D130E2B326980804479FD.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-10.00.56:086][566]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-10.00.56:334][566]LogSavePackage: Save=207.94ms
+[2017.10.31-10.00.56:334][566]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_BuiltData5D73FA3E43CC9E26AA8C2FA60D7ABFA1.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2017.10.31-10.00.56:337][566]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2017.10.31-10.00.57:023][605]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.31-10.00.57:035][605]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-10.00.57:035][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.31-10.00.57:036][605]PIE: New page: PIE session: SideScrollerExampleMap (31 Oct 2017 10:00:57)
+[2017.10.31-10.00.57:036][605]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.10.31-10.00.57:059][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022446s)
+[2017.10.31-10.00.57:059][605]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.10.31-10.00.57:060][605]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2017.10.31-10.00.57:060][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.023831s)
+[2017.10.31-10.00.57:080][605]LogInit: XAudio2 using 'MON-SIS289 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.31-10.00.57:094][605]LogInit: FAudioDevice initialized.
+[2017.10.31-10.00.57:125][605]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.10.31-10.00.57:128][605]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2017.10.31-10.00.57
+[2017.10.31-10.00.57:129][605]LogWorld: Bringing up level for play took: 0.003162
+[2017.10.31-10.00.57:130][605]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.742
+[2017.10.31-10.00.57:131][605]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-10.01.12:347][516]LogCharacterMovement: SideScrollerCharacter_78 is stuck and failed to move! Velocity: X=0.00 Y=34.13 Z=0.00 Location: X=1200.00 Y=899.76 Z=1020.41 Normal: X=0.65 Y=-0.76 Z=-0.00 PenetrationDepth:17.563 Actor:Actor2_7 Component:Door with Input BoneName:None (0 other events since notify)
+[2017.10.31-10.01.45:383][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-10.01.45:426][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-10.01.46:599][560]LogEditorViewport: Clicking on Actor (LMB): Actor_Blueprint_C (Actor_Blueprint)
+[2017.10.31-10.01.47:742][626]Cmd: DELETE
+[2017.10.31-10.01.47:742][626]Cmd: ACTOR DELETE
+[2017.10.31-10.01.47:743][626]LogEditorActor: Deleted Actor: Actor_Blueprint_C
+[2017.10.31-10.01.47:760][626]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.10.31-10.01.56:458][133]LogSavePackage: Save=130.89ms
+[2017.10.31-10.01.56:458][133]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap26493E494B2770A16C281EBC13BF0B0D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-10.01.56:464][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-10.01.56:699][133]LogSavePackage: Save=208.63ms
+[2017.10.31-10.01.56:699][133]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_BuiltDataD42520434AAC4199333F638FF3D148B7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2017.10.31-10.01.56:702][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset

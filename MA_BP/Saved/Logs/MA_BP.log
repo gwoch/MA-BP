@@ -350,3 +350,305 @@ LogInit: Object subsystem initialized
 [2017.10.30-21.12.04:070][495]LogSavePackage: Save=347.02ms
 [2017.10.30-21.12.04:070][495]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_BuiltDataD63F1B2443A782E0312EA2A3BADC7D32.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
 [2017.10.30-21.12.04:073][495]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2017.10.30-22.20.12:844][999]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.30-23.34.28:202][365]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.30-23.59.53:583][166]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0041 seconds. Added 15 classes and 2 folders.
+[2017.10.30-23.59.53:591][166]LogInit: Transaction tracking system initialized
+[2017.10.30-23.59.53:593][166]EditorErrors: New page: Matinee Initialization
+[2017.10.31-00.04.49:809][ 65]LogLinker: Warning: Can't find file '/Engine/EditorMaterials/MatineeGroups/MAT_Groups_ParticleReplay'
+[2017.10.31-00.04.49:810][ 65]LogLinker: Warning: Can't find file '/Engine/EditorMaterials/MatineeGroups/MAT_Groups_ParticleReplay'
+[2017.10.31-00.04.49:810][ 65]LogUObjectGlobals: Warning: Failed to find object 'Texture2D /Engine/EditorMaterials/MatineeGroups/MAT_Groups_ParticleReplay.MAT_Groups_ParticleReplay'
+[2017.10.31-00.11.30:999][308]LogEditorViewport: Clicking on Actor (LMB): Actor_Blueprint_C (Actor_Blueprint)
+[2017.10.31-00.16.21:213][728]LogEditorViewport: Clicking on Actor (LMB): Actor_Blueprint_C (Actor_Blueprint)
+[2017.10.31-00.16.28:956][182]LogEditorTransaction: Undo NewTrack
+[2017.10.31-00.16.29:456][212]LogEditorTransaction: Undo New Group
+[2017.10.31-00.16.29:989][244]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.16.30:323][264]LogEditorTransaction: Undo Move Loop End Marker
+[2017.10.31-00.16.30:656][284]LogEditorTransaction: Undo NewTrack
+[2017.10.31-00.16.30:989][304]LogEditorTransaction: Undo Cut Selected Track or Group
+[2017.10.31-00.16.31:323][324]LogEditorTransaction: Undo NewTrack
+[2017.10.31-00.16.31:622][342]LogEditorTransaction: Undo Track Delete
+[2017.10.31-00.16.31:956][362]LogEditorTransaction: Undo Track Delete
+[2017.10.31-00.16.32:273][381]LogEditorTransaction: Undo New Group
+[2017.10.31-00.16.32:673][405]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.16.33:057][428]LogEditorTransaction: Undo New Group
+[2017.10.31-00.16.33:473][453]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.16.33:840][475]LogEditorTransaction: Undo Cut Selected Track or Group
+[2017.10.31-00.16.34:223][498]LogEditorTransaction: Undo Enable/Disable Track
+[2017.10.31-00.16.34:957][542]LogEditorTransaction: Undo Enable/Disable Track
+[2017.10.31-00.16.37:952][719]LogEditorViewport: Clicking on Actor (LMB): Actor_Blueprint_C (Actor_Blueprint)
+[2017.10.31-00.20.37:450][386]LogEditorTransaction: Undo Update Key Frame
+[2017.10.31-00.20.37:669][399]LogEditorTransaction: Undo Add Key
+[2017.10.31-00.20.37:853][410]LogEditorTransaction: Undo Move Loop End Marker
+[2017.10.31-00.20.38:019][420]LogEditorTransaction: Undo NewTrack
+[2017.10.31-00.20.38:186][430]LogEditorTransaction: Undo New Group
+[2017.10.31-00.20.38:319][438]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.20.38:486][448]LogEditorTransaction: Undo New Group
+[2017.10.31-00.20.54:749][372]LogExit: Transaction tracking system shut down
+[2017.10.31-00.20.54:877][372]LogSavePackage: Save=89.39ms
+[2017.10.31-00.20.54:877][372]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_Auto4F75FD315477CEC5CC935C6835460963C.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto4.umap'
+[2017.10.31-00.20.54:880][372]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto4.umap
+[2017.10.31-00.20.54:883][372]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.197
+[2017.10.31-00.20.54:883][372]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.197
+[2017.10.31-00.21.11:193][341]LogEditorViewport: Clicking on Actor (LMB): Actor_Blueprint_C (Actor_Blueprint)
+[2017.10.31-00.21.11:807][377]LogEditorViewport: Clicking on Actor (LMB): Actor_Blueprint_C (Actor_Blueprint)
+[2017.10.31-00.21.11:904][382]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2017.10.31-00.21.52:813][818]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2017.10.31-00.21.52:818][818]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.21.52:938][818]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.21.52:975][818]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.21.57:683][ 90]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.31-00.21.57:683][ 90]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.31-00.21.57:683][ 90]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.31-00.22.03:550][439]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.03:572][439]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.04:723][507]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.31-00.22.04:723][507]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.31-00.22.04:723][507]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.31-00.22.05:460][551]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.05:478][551]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.07:603][677]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.07:623][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.10:449][845]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.10:465][845]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.11:668][916]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.31-00.22.11:668][916]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.31-00.22.11:668][916]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.31-00.22.11:821][925]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.11:837][925]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.12:994][991]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.31-00.22.12:994][991]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.31-00.22.12:994][991]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.31-00.22.17:340][251]LogMaterialEditor: Applying material BasicShapeMaterial
+[2017.10.31-00.22.18:036][251]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.18:090][251]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.18:163][251]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.18:246][251]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.18:872][251]TextureStreamingBuild: Display: Compiling optional shaders took 0.635 seconds.
+[2017.10.31-00.22.23:585][527]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.31-00.22.23:585][527]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.31-00.22.23:585][527]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.31-00.22.46:148][871]LogActorFactory: Actor Factory created Cube
+[2017.10.31-00.22.46:901][916]LogActorFactory: Actor Factory created Cube
+[2017.10.31-00.22.47:306][938]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.47:306][938]LogEditorTransaction: Undo Create Actors
+[2017.10.31-00.22.47:334][938]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.47:849][965]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.47:849][965]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.10.31-00.22.47:852][965]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.47:875][965]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.47:919][965]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.48:308][982]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.48:308][982]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.10.31-00.22.48:312][982]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.48:333][982]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.48:379][982]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.49:462][ 39]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.49:462][ 39]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.10.31-00.22.49:466][ 39]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.49:487][ 39]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.49:531][ 39]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.50:084][ 64]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.50:084][ 64]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.10.31-00.22.50:088][ 64]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.50:109][ 64]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.50:152][ 64]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.50:852][102]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.50:852][102]LogEditorTransaction: Undo Modify Color Picker Value
+[2017.10.31-00.22.50:856][102]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.50:875][102]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.50:920][102]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.10.31-00.22.52:271][176]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.31-00.22.52:271][176]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.31-00.22.52:271][176]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.31-00.22.53:041][222]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.53:041][222]LogEditorTransaction: Undo Clicking on Components
+[2017.10.31-00.22.53:051][222]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.53:621][254]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.53:621][254]LogEditorTransaction: Undo Clicking on Actors
+[2017.10.31-00.22.53:625][254]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.54:151][283]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.54:151][283]LogEditorTransaction: Undo Clicking on Actors
+[2017.10.31-00.22.54:155][283]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.54:714][315]Cmd: TRANSACTION UNDO
+[2017.10.31-00.22.54:714][315]LogEditorTransaction: Undo Move Actors
+[2017.10.31-00.22.54:719][315]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.22.56:023][391]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.31-00.22.56:023][391]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.31-00.22.56:023][391]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.31-00.23.03:971][865]LogEditorViewport: Clicking on Actor (LMB): Actor_Blueprint_C (Actor_Blueprint)
+[2017.10.31-00.23.04:068][870]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door)
+[2017.10.31-00.23.10:002][221]LogMaterialEditor: Applying material BasicShapeMaterial
+[2017.10.31-00.23.10:535][221]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.23.10:587][221]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.23.10:662][221]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.23.10:750][221]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.10.31-00.23.11:375][221]TextureStreamingBuild: Display: Compiling optional shaders took 0.633 seconds.
+[2017.10.31-00.23.13:953][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.23.16:117][497]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.31-00.23.16:117][497]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.31-00.23.16:117][497]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.31-00.23.34:139][568]LogEditorViewport: Clicking on Actor (LMB): Actor_Blueprint_C (Actor_Blueprint)
+[2017.10.31-00.23.54:045][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.23.54:661][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.23.55:164][814]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2017.10.31-00.23.55:319][815]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2017.10.31-00.23.58:172][980]Cmd: TRANSACTION UNDO
+[2017.10.31-00.23.58:172][980]LogEditorTransaction: Undo Move Components
+[2017.10.31-00.23.58:178][980]LogActorComponent: ~FComponentReregisterContext: (/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CollisionCylinder) Component already registered.
+[2017.10.31-00.23.58:185][980]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.23.59:001][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.23.59:682][ 59]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.31-00.23.59:682][ 59]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.31-00.23.59:682][ 59]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.31-00.24.00:385][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.24.00:819][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.24.04:717][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.24.04:797][361]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.10.31-00.24.05:372][394]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.10.31-00.24.05:450][398]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2017.10.31-00.24.06:062][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.24.06:426][454]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.10.31-00.24.07:181][495]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2017.10.31-00.24.12:467][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.25.25:649][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.25.26:611][209]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.31-00.26.02:075][322]LogInit: Transaction tracking system initialized
+[2017.10.31-00.26.02:075][322]EditorErrors: New page: Matinee Initialization
+[2017.10.31-00.27.22:909][874]LogEditorTransaction: Undo Move Loop End Marker
+[2017.10.31-00.29.54:212][597]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.29.54:260][597]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.29.54:329][597]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2017.10.31-00.29.54:397][597]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2017.10.31-00.29.55:275][597]TextureStreamingBuild: Display: Compiling optional shaders took 0.885 seconds.
+[2017.10.31-00.29.58:459][774]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.31-00.30.01:327][939]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.31-00.30.07:601][312]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.31-00.31.18:958][553]LogEditorTransaction: Undo Move End Marker
+[2017.10.31-00.31.19:153][564]LogEditorTransaction: Undo NewTrack
+[2017.10.31-00.31.19:302][573]LogEditorTransaction: Undo Move End Marker
+[2017.10.31-00.31.19:455][582]LogEditorTransaction: Undo New Group
+[2017.10.31-00.31.19:806][603]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.31.20:039][617]LogEditorTransaction: Undo Move Loop End Marker
+[2017.10.31-00.31.20:222][628]LogEditorTransaction: Undo Move Loop End Marker
+[2017.10.31-00.31.20:389][638]LogEditorTransaction: Undo Move Loop Start Marker
+[2017.10.31-00.31.20:555][648]LogEditorTransaction: Undo NewTrack
+[2017.10.31-00.31.20:722][658]LogEditorTransaction: Undo New Group
+[2017.10.31-00.31.20:872][667]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.31.21:039][677]LogEditorTransaction: Undo New Group
+[2017.10.31-00.31.21:189][686]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.31.21:355][696]LogEditorTransaction: Undo New Group
+[2017.10.31-00.31.21:522][706]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.31.21:705][717]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.31.21:872][727]LogEditorTransaction: Undo New Group
+[2017.10.31-00.31.22:056][738]LogEditorTransaction: Undo NewTrack
+[2017.10.31-00.31.22:256][750]LogEditorTransaction: Undo New Group
+[2017.10.31-00.31.22:456][762]LogEditorTransaction: Undo Group Delete
+[2017.10.31-00.31.22:639][773]LogEditorTransaction: Undo New Group
+[2017.10.31-00.32.14:982][826]LogEditorTransaction: Undo NewTrack
+[2017.10.31-00.32.15:149][836]LogEditorTransaction: Undo New Group
+[2017.10.31-00.32.15:299][845]LogEditorTransaction: Undo Move Loop End Marker
+[2017.10.31-00.32.15:482][856]LogEditorTransaction: Undo Move End Marker
+[2017.10.31-00.32.15:649][866]LogEditorTransaction: Undo Move Loop End Marker
+[2017.10.31-00.32.16:366][909]LogEditorTransaction: Undo Move End Marker
+[2017.10.31-00.32.16:902][941]LogEditorTransaction: Undo Move End Marker
+[2017.10.31-00.39.55:648][723]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (MatineeActor1)
+[2017.10.31-00.42.07:474][859]BlueprintLog: New page: Compile SideScrollerExampleMap
+[2017.10.31-00.43.19:436][419]BlueprintLog: New page: Compile SideScrollerExampleMap
+[2017.10.31-00.43.34:970][891]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.31-00.43.49:586][ 34]LogSavePackage: Save=110.11ms
+[2017.10.31-00.43.49:586][ 34]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap89FFDBBC462C0667B7F8D5B08E244470.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-00.43.49:592][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-00.43.49:607][ 34]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.290
+[2017.10.31-00.43.52:291][187]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.31-00.43.52:304][187]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-00.43.52:304][187]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.31-00.43.52:310][187]LogPlayLevel: [PlayLevel] Compiling Actor_Blueprint before play...
+[2017.10.31-00.43.52:721][187]LogExit: Transaction tracking system shut down
+[2017.10.31-00.43.52:722][187]LogPlayLevel: PlayLevel: Blueprint regeneration took 418 ms (1 blueprints)
+[2017.10.31-00.43.52:734][187]PIE: New page: PIE session: SideScrollerExampleMap (31 Oct 2017 00:43:52)
+[2017.10.31-00.43.52:734][187]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.10.31-00.43.52:764][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029259s)
+[2017.10.31-00.43.52:765][187]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.10.31-00.43.52:766][187]LogPlayLevel: PIE: World Init took: (0.002235s)
+[2017.10.31-00.43.52:767][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.032831s)
+[2017.10.31-00.43.52:792][187]LogInit: XAudio2 using 'MON-SIS289 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.31-00.43.52:800][187]LogInit: FAudioDevice initialized.
+[2017.10.31-00.43.52:848][187]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.10.31-00.43.52:858][187]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2017.10.31-00.43.52
+[2017.10.31-00.43.52:860][187]LogWorld: Bringing up level for play took: 0.004662
+[2017.10.31-00.43.52:947][187]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2017.10.31-00.43.52:951][187]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.655
+[2017.10.31-00.43.52:951][187]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-00.44.09:913][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-00.44.09:966][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-00.44.17:493][641]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.31-00.44.18:017][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-00.44.18:649][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-00.44.19:147][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-00.44.19:727][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-00.44.20:192][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.44.20:613][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.31-00.44.23:179][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2017.10.31-00.44.23:785][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2017.10.31-00.44.24:233][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2017.10.31-00.44.24:755][ 60]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.31-00.44.25:448][100]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.31-00.44.26:106][138]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (TriggerBox)
+[2017.10.31-00.54.23:443][362]LogSavePackage: Save=122.35ms
+[2017.10.31-00.54.23:443][362]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_Auto54E1EBBA848843476310082B104288D67.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto5.umap'
+[2017.10.31-00.54.23:447][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto5.umap
+[2017.10.31-00.54.23:449][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.175
+[2017.10.31-00.54.23:449][362]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.175
+[2017.10.31-00.54.23:452][362]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2017.10.31-00.54.23:486][362]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2017.10.31-00.54.23:486][362]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2017.10.31-00.54.23:508][362]LogSavePackage: Save=15.96ms
+[2017.10.31-00.54.23:508][362]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/BasicShapeMaterial_Auto5BEDCD7B24FEB094916C82FAD9C49517C.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto5.uasset'
+[2017.10.31-00.54.23:511][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto5.uasset
+[2017.10.31-00.54.23:513][362]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/Actor_Blueprint] ([1] browsable assets)...
+[2017.10.31-00.54.23:546][362]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/Actor_Blueprint.Actor_Blueprint]
+[2017.10.31-00.54.23:547][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/Actor_Blueprint]
+[2017.10.31-00.54.23:582][362]LogSavePackage: Save=33.18ms
+[2017.10.31-00.54.23:582][362]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Actor_Blueprint_Auto5C7DE66794FA64D0F45D06A94DDD6D796.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Actor_Blueprint_Auto5.uasset'
+[2017.10.31-00.54.23:586][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Actor_Blueprint_Auto5.uasset
+[2017.10.31-00.54.23:586][362]LogFileHelpers: Auto-saving content packages took 0.136
+[2017.10.31-00.59.15:579][840]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.10.31-00.59.41:762][395]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall3)
+[2017.10.31-00.59.42:535][434]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2017.10.31-00.59.43:490][489]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (MatineeActor1)
+[2017.10.31-01.00.28:148][149]BlueprintLog: New page: Compile SideScrollerExampleMap
+[2017.10.31-01.00.30:470][272]LogSavePackage: Save=114.01ms
+[2017.10.31-01.00.30:470][272]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap8C7ADE444E6F1137746AB0B259982F67.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-01.00.30:476][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-01.00.30:507][272]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.266
+[2017.10.31-01.00.33:245][426]LogSavePackage: Save=101.79ms
+[2017.10.31-01.00.33:245][426]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMapD67489074FDDBEC94E1C47B006C5C7E1.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-01.00.33:248][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-01.00.33:525][426]LogSavePackage: Save=231.80ms
+[2017.10.31-01.00.33:525][426]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_BuiltDataEF0EEB324123426B9A2FF9AECBE59059.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2017.10.31-01.00.33:528][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2017.10.31-01.00.34:439][478]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.31-01.00.34:458][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-01.00.34:459][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.31-01.00.34:459][478]PIE: New page: PIE session: SideScrollerExampleMap (31 Oct 2017 01:00:34)
+[2017.10.31-01.00.34:459][478]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.10.31-01.00.34:482][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023087s)
+[2017.10.31-01.00.34:483][478]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.10.31-01.00.34:483][478]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2017.10.31-01.00.34:483][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.024474s)
+[2017.10.31-01.00.34:507][478]LogInit: XAudio2 using 'MON-SIS289 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.31-01.00.34:514][478]LogInit: FAudioDevice initialized.
+[2017.10.31-01.00.34:545][478]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.10.31-01.00.34:549][478]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2017.10.31-01.00.34
+[2017.10.31-01.00.34:550][478]LogWorld: Bringing up level for play took: 0.002917
+[2017.10.31-01.00.34:551][478]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.255
+[2017.10.31-01.00.34:551][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-01.01.16:703][  5]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-01.01.16:750][  5]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.31-01.01.18:161][ 71]LogSavePackage: Save=109.13ms
+[2017.10.31-01.01.18:161][ 71]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap48B95A2344F6866AAE6933BBE3585FE9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.31-01.01.18:164][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.31-01.01.18:403][ 71]LogSavePackage: Save=214.54ms
+[2017.10.31-01.01.18:403][ 71]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Saved/SideScrollerExampleMap_BuiltData8E1857BE459A0118744ADE9205427371.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2017.10.31-01.01.18:406][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/MA_BP/MA_BP/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
